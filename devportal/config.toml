@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Welcome to DevPortal!'
+theme = 'hugo-theme-air'
