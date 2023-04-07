@@ -13,7 +13,7 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
+  description = "A DevOps resource site for deploment, monitoring, and testing!"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
