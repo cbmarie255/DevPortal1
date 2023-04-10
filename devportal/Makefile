@@ -7,5 +7,3 @@ package: build ## Package website and
 clean: ## Clean up the Dist directory
 	rm -rf dist
 	rm -rf ./DevPortal-api
-
-
