@@ -7,7 +7,8 @@ Copyright = "All rights reserved - 2016"
 canonifyurls = true
 
 [author]
-  name = "Courtney Brown, DevOps Engineer"
+  name = "Courtney Brown, Brandon Brown, Faizal Mamah: DevOps Engineers"
+
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
@@ -15,7 +16,7 @@ canonifyurls = true
 [params]
   description = "A DevOps resource site for deployment, monitoring, and testing."
   cover = "images/devopsLogo.png"
-  author = "Courtney Brown, DevOps Engineer"
+  author = "Courtney Brown, Brandon Brown, Faizal Mamah: DevOps Engineers"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"

@@ -8,7 +8,7 @@ features = ["disqus", "google analytics","share"]
 min_version=0.14
 
 [author]
-  name = "syui"
+  name = "Courtney Brown, Brandon Brown, Faizal Mamah: DevOps Engineers"
   homepage = "https://syui.github.io"
 
 [original]
