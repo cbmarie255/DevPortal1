@@ -8,11 +8,7 @@ image = ""
 menu = ""
 share = false
 slug = "test"
-<<<<<<< HEAD
-title= "Version Control"
-=======
 title= "A Must Have CLI!"
->>>>>>> 162c92dd98599cae024e7454f7ee34de925ed0b3
 +++
 
 ```bash

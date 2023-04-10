@@ -7,11 +7,7 @@ Copyright = "All rights reserved - 2016"
 canonifyurls = true
 
 [author]
-<<<<<<< HEAD
-  name = "CFB"
-=======
   name = "Courtney Brown, DevOps Engineer"
->>>>>>> 162c92dd98599cae024e7454f7ee34de925ed0b3
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
