@@ -12,5 +12,5 @@ title= "Full Stack Monitoring"
 +++
 
 ```bash
-echo "what is is hoe !!"
+echo "what it is hoe !!"
 ```
