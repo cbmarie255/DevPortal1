@@ -7,7 +7,7 @@ Copyright = "All rights reserved - 2016"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "CFB"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
