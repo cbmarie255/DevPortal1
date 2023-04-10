@@ -8,9 +8,9 @@ image = ""
 menu = ""
 share = false
 slug = "test"
-title= "Full Stack Monitoring"
+title= "A Must Have CLI!"
 +++
 
 ```bash
-echo "what it is hoe !!"
+hugo
 ```

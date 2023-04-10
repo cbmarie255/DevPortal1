@@ -7,24 +7,24 @@ Copyright = "All rights reserved - 2016"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "Courtney Brown, DevOps Engineer"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "A DevOps resource site for deploment, monitoring, and testing!"
-  cover = "images/user.jpg"
-  author = "syui"
+  description = "A DevOps resource site for deployment, monitoring, and testing."
+  cover = "images/devopsLogo.png"
+  author = "Courtney Brown, DevOps Engineer"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
-  logo = "images/user.png"
+  logo = "images/devopsLogo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
   githubName = "syui"
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  hideHUGOSupport = true
   mainSections = ["post"]
