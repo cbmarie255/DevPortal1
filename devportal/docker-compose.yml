@@ -1,0 +1,6 @@
+services:
+  devportal-build:
+    build:
+      context: .
+      dockerfile: ./build/Dockerfile
+    image: devportal:main
