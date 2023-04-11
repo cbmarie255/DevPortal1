@@ -14,7 +14,7 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "A DevOps resource site for deployment, monitoring, and testing."
+  description = "A DevOps Resource Site Created and Monitored by C18 Holberton School Tulsa DevOps Students"
   cover = "images/devopsLogo.png"
   author = "Courtney Brown, Brandon Brown, Faizal Mamah: DevOps Engineers"
   authorlocation = ""

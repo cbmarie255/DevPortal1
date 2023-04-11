@@ -6,7 +6,7 @@ draft = false
 image = ""
 menu = ""
 share = true
-slug = "test"
+slug = ""
 title = "C18 Holberton School DevOps Engineers: Where We Came From"
 tags = []
 +++

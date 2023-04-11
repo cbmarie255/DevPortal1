@@ -7,7 +7,7 @@ draft = false
 image = ""
 menu = ""
 share = true
-slug = "test"
+slug = ""
 title= "A Must Have CLI!"
 +++
 

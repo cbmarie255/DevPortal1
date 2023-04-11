@@ -6,7 +6,7 @@ draft = false
 image = ""
 menu = ""
 share = true
-slug = "test"
+slug = ""
 title = "Full-Stack Monitoring"
 tags = []
 +++
