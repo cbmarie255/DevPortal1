@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://devportalcourtney.netlify.app/'
 languageCode = 'en-us'
 title = 'Welcome to DevPortal'
 theme = 'hugo-theme-air'
