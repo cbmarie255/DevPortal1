@@ -8,7 +8,7 @@ clean: ## Clean up the repo before pushing to any platforms to create new data c
 build-hugo: ## Build new hugo static site after all updates are made. Run 'hugo server' to check the site's health locally.
 	hugo
 
-package: build ## Package website and create /dist repo. 
+package: build-hugo ## Package website and create /dist repo. 
 	hugo --minify
 
 publish-netlify: ## Publish site to host on Netlify and follow the prompt with your Netlify sign-in information. Must run 'make clean' & 'make package' to deploy updates! (You may need to run 'sudo' with netlify-cli commands on your local environment.)
