@@ -4,6 +4,6 @@ COPY . .
 
 RUN /app/setup.sh
 
-EXPOSE 9999
+EXPOSE 1313
 
-CMD ls
+CMD ["/bin/bash"]

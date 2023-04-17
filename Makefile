@@ -23,13 +23,12 @@ build-docker-image: ## Create new image for container. Make sure the dashboard i
 	docker build -t devportal .
 
 run-docker-container: ## Spin up a containerized environment on your local environment with everything you need from the site. Use 'exit' to get out the container.
-	docker run -d --name devportal_sandbox -it devportal /bin/bash
+	docker run -d -p 1313:1313 --name devportal_sandbox -it devportal /bin/bash
 
-create-EC2-instance: ## Create an EC2 instance using the awscli. Ensure Access Keys are saved on your local environment ONLY!
-	aws configure
-	./EC2_created.sh
-	./setupEC2.sh "$(./EC2_created.sh testJawn)"
+hugo-server-docker: ## View the site locally in your Docker container.
+	hugo server --bind=0.0.0.0
 
-
-
-
+## create-EC2-instance: ## Create an EC2 instance using the awscli. Ensure Access Keys are saved on your local environment ONLY!
+##    aws configure
+##	./EC2_created.sh
+##	./setupEC2.sh "$(./EC2_created.sh testJawn)"
