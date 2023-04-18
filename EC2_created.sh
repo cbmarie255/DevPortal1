@@ -19,3 +19,5 @@ aws ec2 run-instances \
 	--instance-ids {} \
 	--query 'Reservations[*].Instances[*].PublicIpAddress' \
 	--output text
+
+echo "$1" > new_ec2_instance_ip.txt

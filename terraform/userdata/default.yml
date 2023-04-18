@@ -1,0 +1,19 @@
+#cloud-config
+package_update: true
+package_upgrade: true
+packages:
+  - docker.io
+  - make
+  - golang
+  - hugo
+  - nodejs
+  - npm
+  - java
+  - git
+runcmd:
+  - sudo systemctl start docker
+  - sudo systemctl enable docker
+  - sudo usermod -aG docker default
+  - curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+  - sudo apt-get install -y nodejs
+  - sudo npm install -g netlify-cli

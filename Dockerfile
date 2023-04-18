@@ -6,4 +6,4 @@ RUN /app/setup.sh
 
 EXPOSE 1313
 
-CMD ["/bin/bash"]
+CMD ["hugo", "server", "--bind=0.0.0.0"]
