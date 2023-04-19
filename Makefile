@@ -29,6 +29,6 @@ hugo-server: ## View the site locally in your container.
 	hugo server --bind=0.0.0.0
 
 create-EC2-instance: ## Create an EC2 instance using the awscli. Ensure Access Keys are saved on your local environment ONLY!
-##  aws configure
-##	./setupEC2.sh "$(./EC2_created.sh testy-test)"
-##	./deploy.sh
+	cd terraform
+	terraform init
+	terraform apply
