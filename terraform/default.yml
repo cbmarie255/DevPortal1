@@ -1,0 +1,16 @@
+#cloud-config
+package_update: true
+package_upgrade: true
+runcmd:
+  - sudo install docker.io
+  - sudo apt install -y make docker.io awscli
+  - sudo systemctl start docker
+  - sudo systemctl enable docker
+  - sudo usermod -aG docker default
+  - curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+  - sudo apt-get install -y nodejs golang git
+  - sudo npm install -g netlify-cli 
+  - wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.82.0/hugo_0.82.0_Linux-64bit.deb
+  - sudo dpkg -i hugo.deb
+  - sudo rm hugo.deb
+  - sudo git clone https://github.com/cbmarie255/DevPortal1.git

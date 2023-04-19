@@ -53,8 +53,9 @@ user_data = data.cloudinit_config.server_config.rendered
 data "cloudinit_config" "server_config" {
   gzip          = false
   base64_encode = true
+
   part {
 	content_type = "text/cloud-config"
-	content      = file("./userdata/default.yml")
+	content = file("./default.yml")
   }
 }
