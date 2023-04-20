@@ -3,7 +3,6 @@ help: ## Makefile instructions: run 'make help' too see all automated commands. 
 
 clean: ## Clean up the repo before pushing to any platforms to create new data collection files.
 	rm -rf dist
-	rm new_ec2_instance_ip.txt
 
 build-hugo: ## Build new hugo static site after all updates are made. Run 'hugo server' to check the site's health locally.
 	hugo
