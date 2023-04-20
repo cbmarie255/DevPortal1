@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://devportalcbf.netlify.app/post/about-us/</loc>
-    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://devportalcbf.netlify.app/post/</loc>
-    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://devportalcbf.netlify.app/post/welcome/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://devportalcbf.netlify.app/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://devportalcbf.netlify.app/post/about-us/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://devportalcbf.netlify.app/post/github/</loc>
