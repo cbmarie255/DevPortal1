@@ -25,3 +25,5 @@ Good luck guys! -C18
 Hey Yall This Is Incredible! 
 
 Love you all. Y'all did awesome.
+
+Retrain Tulsa was here!
