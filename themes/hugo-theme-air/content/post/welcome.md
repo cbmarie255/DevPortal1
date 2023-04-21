@@ -7,13 +7,12 @@ image = ""
 menu = ""
 share = true
 slug = ""
-title = "Welcome to DevPortal Expedition Hour"
+title = "Welcome to DevPortal Expedition Hour!!"
 tags = []
 +++
 
 ![alt text](https://blog.exigence.io/hs-fs/hubfs/298-2987566_devops-tools-clipart.png?width=3072&name=298-2987566_devops-tools-clipart.png)
 
-Welcome to DevPortal's Demo Day Expedition Hour!
 
 Thank you for stopping by our booth :)
 
