@@ -15,9 +15,11 @@ tags = []
 
 Welcome to DevPortal's Demo Day Expedition Hour!
 
-Leave us a message and watch our site update in real time!! If you are familiar with Toml Front Matter markdown, feel free to add images or a link as well.
+Thank you for stopping by our booth :)
 
-> Post your meesage here: 
+Leave us a message and watch our site update in real time!! If you are familiar with Toml Front Matter markdown, feel free to add images or a link to this file.
+
+> Post your message here:
 
 Good luck guys! -C18
 
