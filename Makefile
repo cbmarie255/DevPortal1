@@ -31,3 +31,8 @@ create-EC2-instance: ## Create an EC2 instance using the awscli. Ensure Access K
 	cd terraform
 	terraform init
 	terraform apply
+
+push: ## Push code changes to GitHub and trigger a workflow
+	git add .
+	git commit -m 'Thank you for contributing to DevPortal!'
+	git push

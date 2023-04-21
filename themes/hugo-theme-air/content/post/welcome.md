@@ -1,7 +1,7 @@
 +++
 author = "Courtney Brown, Brandon Brown, Faizal Mamah: DevOps Engineers"
 comments = true
-date = "2023-04-20"
+date = "2023-04-21"
 draft = false
 image = ""
 menu = ""
@@ -13,6 +13,11 @@ tags = []
 
 ![alt text](https://blog.exigence.io/hs-fs/hubfs/298-2987566_devops-tools-clipart.png?width=3072&name=298-2987566_devops-tools-clipart.png)
 
-> Testing for tomorrow :)
+Welcome to DevPortal's Demo Day Expedition Hour!
 
-Sam did this whole project
+Leave us a message and watch our site update in real time!! If you are familiar with Toml Front Matter markdown, feel free to add images or a link as well.
+
+> Post your meesage here: 
+
+Good luck guys! -C18
+
