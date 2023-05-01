@@ -40,4 +40,8 @@ Sam loved the project
 
 Courtney s=is awesome
 
+<<<<<<< HEAD
 My name is sam and im HIMMMMMMMMONTHY!!!! 
+=======
+I SECOND THIS ^^^
+>>>>>>> 2e3a9586ef12d70dbf31d80d296f55e58c3744ae
