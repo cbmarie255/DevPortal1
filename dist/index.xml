@@ -1,15 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to DevPortal!</title><link>https://devportalcbf.netlify.app/</link><description>Recent content on Welcome to DevPortal!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://devportalcbf.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to DevPortal Expedition Hour!!</title><link>https://devportalcbf.netlify.app/post/welcome/</link><pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/welcome/</guid><description>Thank you for stopping by our booth :)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to DevPortal!</title>
+    <link>https://devportalcbf.netlify.app/</link>
+    <description>Recent content on Welcome to DevPortal!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://devportalcbf.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to DevPortal Expedition Hour!!</title>
+      <link>https://devportalcbf.netlify.app/post/welcome/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/welcome/</guid>
+      <description>Thank you for stopping by our booth :)
 Leave us a message and watch our site update in real time!! If you are familiar with Toml Front Matter markdown, feel free to add images or a link to this file.
 Post your message here:
 Good luck guys! -C18
 Hey Yall This Is Incredible!
 Love you all. Y&amp;rsquo;all did awesome.
 Retrain Tulsa was here!
-Aaron and Adam LOVE this group - Come work for BOK</description></item><item><title>C18 Holberton School DevOps Engineers: Where We Came From</title><link>https://devportalcbf.netlify.app/post/about-us/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/about-us/</guid><description>Holberton School Tulsa is a world-class technology education institution located in Tulsa, Oklahoma. Established in 2021, Holberton School Tulsa offers a cutting-edge curriculum designed to equip students with the skills and knowledge needed to succeed in the rapidly-evolving tech industry. With a focus on project-based learning and collaboration, students are immersed in a dynamic and supportive learning environment that fosters creativity, critical thinking, and problem-solving skills.
-Holberton School Tulsa boasts a diverse and inclusive student body and faculty, ensuring that every student has access to the resources and support they need to achieve their goals.</description></item><item><title>Checkout Our GitHubs!</title><link>https://devportalcbf.netlify.app/post/github/</link><pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/github/</guid><description>GitHub is a web-based platform that provides developers with a collaborative environment to manage and store their code. It is widely used for version control, project management, and code review by individuals and organizations across the globe.
+Aaron and Adam LOVE this group - Come work for BOK</description>
+    </item>
+    
+    <item>
+      <title>C18 Holberton School DevOps Engineers: Where We Came From</title>
+      <link>https://devportalcbf.netlify.app/post/about-us/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/about-us/</guid>
+      <description>Holberton School Tulsa is a world-class technology education institution located in Tulsa, Oklahoma. Established in 2021, Holberton School Tulsa offers a cutting-edge curriculum designed to equip students with the skills and knowledge needed to succeed in the rapidly-evolving tech industry. With a focus on project-based learning and collaboration, students are immersed in a dynamic and supportive learning environment that fosters creativity, critical thinking, and problem-solving skills.
+Holberton School Tulsa boasts a diverse and inclusive student body and faculty, ensuring that every student has access to the resources and support they need to achieve their goals.</description>
+    </item>
+    
+    <item>
+      <title>Checkout Our GitHubs!</title>
+      <link>https://devportalcbf.netlify.app/post/github/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/github/</guid>
+      <description>GitHub is a web-based platform that provides developers with a collaborative environment to manage and store their code. It is widely used for version control, project management, and code review by individuals and organizations across the globe.
 As students at Holberton School Tulsa, we have been working on our Github rep for a little over a year. Feel free to check out our repos :)
 Courtney Brown
-Brandon Brown</description></item><item><title>The CI/CD Pipeline</title><link>https://devportalcbf.netlify.app/post/ci_cd/</link><pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/ci_cd/</guid><description>The CI/CD pipeline is a software development approach that emphasizes frequent code integration, testing, and deployment. CI stands for Continuous Integration, which means that code changes are regularly merged into a shared repository and tested to ensure that they don&amp;rsquo;t break the existing code. CD, or Continuous Delivery/Deployment, focuses on automating the process of packaging, testing, and deploying code changes into production environments. By implementing a CI/CD pipeline, developers can catch issues early in the development cycle, reduce manual testing time, and accelerate the delivery of new features to end-users.</description></item><item><title>A Must Have CLI!</title><link>https://devportalcbf.netlify.app/post/hoge/</link><pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/hoge/</guid><description>echo &amp;#34;Go get &amp;#39;hugo&amp;#39; now!&amp;#34; Build a new static site with Hugo, a popular open-source static site generator that allows users to create fast and efficient websites with minimal setup and maintenance!
-Click here to see more about Hugo &amp;amp; GoLang</description></item><item><title>Full-Stack Monitoring</title><link>https://devportalcbf.netlify.app/post/sample/</link><pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate><guid>https://devportalcbf.netlify.app/post/sample/</guid><description>Full-Stack Monitoring is an approach to monitoring that addresses all types of resources (such as applications, infrastructure, and cloud services) and integrates all monitoring techniques (like synthetic and real-user monitoring) through a single process.
+Brandon Brown</description>
+    </item>
+    
+    <item>
+      <title>The CI/CD Pipeline</title>
+      <link>https://devportalcbf.netlify.app/post/ci_cd/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/ci_cd/</guid>
+      <description>The CI/CD pipeline is a software development approach that emphasizes frequent code integration, testing, and deployment. CI stands for Continuous Integration, which means that code changes are regularly merged into a shared repository and tested to ensure that they don&amp;rsquo;t break the existing code. CD, or Continuous Delivery/Deployment, focuses on automating the process of packaging, testing, and deploying code changes into production environments. By implementing a CI/CD pipeline, developers can catch issues early in the development cycle, reduce manual testing time, and accelerate the delivery of new features to end-users.</description>
+    </item>
+    
+    <item>
+      <title>A Must Have CLI!</title>
+      <link>https://devportalcbf.netlify.app/post/hoge/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/hoge/</guid>
+      <description>echo &amp;#34;Go get &amp;#39;hugo&amp;#39; now!&amp;#34; Build a new static site with Hugo, a popular open-source static site generator that allows users to create fast and efficient websites with minimal setup and maintenance!
+Click here to see more about Hugo &amp;amp; GoLang</description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Monitoring</title>
+      <link>https://devportalcbf.netlify.app/post/sample/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devportalcbf.netlify.app/post/sample/</guid>
+      <description>Full-Stack Monitoring is an approach to monitoring that addresses all types of resources (such as applications, infrastructure, and cloud services) and integrates all monitoring techniques (like synthetic and real-user monitoring) through a single process.
 Checkout my article on Full-Stack Monitoring here!
-Full-Stack Essay</description></item></channel></rss>
+Full-Stack Essay</description>
+    </item>
+    
+  </channel>
+</rss>
